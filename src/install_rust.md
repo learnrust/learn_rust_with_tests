@@ -20,6 +20,11 @@ To verify the script ran successfully, we can type the following command to get 
 
 `$ rustup --version`
 
+To update newer rust version going forward:
+
+`$ rustup update `
+
+
 ### Install on Mac
 
 If you're using a mac, you first need to install a C compiler. We'll do that using xcode:
