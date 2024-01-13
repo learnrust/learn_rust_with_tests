@@ -1,6 +1,6 @@
 [book]
-authors = ["0xGlitchbyte"]
+authors = ["tjyang2001"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Learn Rust with Tests"
+title = "Learn Locot with Tests"
